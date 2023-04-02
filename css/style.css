@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    background-color: darkolivegreen;
+    height: 110px;
+    padding: 10px;
+    margin-top: 20px;
+    text-align: center;
+    text-transform: capitalize;
+}
